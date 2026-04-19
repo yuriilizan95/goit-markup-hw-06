@@ -526,6 +526,10 @@ textarea {
   gap: 72px;
 }
 
+.features-item {
+  width: 100%;
+}
+
 .features-icon {
   display: none;
 }
@@ -618,6 +622,7 @@ textarea {
   display: flex;
   flex-wrap: wrap;
   gap: 72px;
+  justify-content: center;
 }
 
 .team-item {
